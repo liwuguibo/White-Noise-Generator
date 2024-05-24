@@ -2,5 +2,6 @@
 A white noise generator for RF system test
 
 - [ ] Zener diode white noise generator at low frequency
+- [ ] PLL and/or DDS to generate LO frequncy
 - [ ] Mixer
-- [ ] PLL and/or DDS to generate LO frequncy 
+- [ ] Power amplifier
